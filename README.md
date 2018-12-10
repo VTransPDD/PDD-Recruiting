@@ -1,2 +1,2 @@
-# amp-recruiting
-Site for Data Management Section recruiting 
+# structures-recruiting
+Site for Structures Section recruiting 
