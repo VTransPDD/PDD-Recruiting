@@ -80,6 +80,10 @@
   text-align: center;
 }
 
+.package {
+  background-color: #94F9FF;
+}
+
 .tasks {
   background-color: #ebf6f9;
 }
