@@ -80,8 +80,16 @@
   text-align: center;
 }
 
-.package {
+.civilpackage {
   background-color: #98E698;
+}
+
+.techpackage {
+  background-color: #FFC266;
+}
+
+.pmpackage {
+  background-color: #85E085;
 }
 
 .require {
